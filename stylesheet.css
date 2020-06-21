@@ -119,6 +119,10 @@ header {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
+.runningtext {
+  opacity: 0.7;
+}
+
 .lesson-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
@@ -150,7 +154,7 @@ header {
   position: top;
   top: 44%;
   width: 100%;
-  color: rgba(34, 49, 52, 0.9);
+  color: black;
 }
 
 .txt-contents {
