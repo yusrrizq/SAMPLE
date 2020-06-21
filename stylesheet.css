@@ -150,7 +150,7 @@ header {
   position: top;
   top: 44%;
   width: 100%;
-  color: black;
+  color: rgba(34, 49, 52, 0.9);
 }
 
 .txt-contents {
