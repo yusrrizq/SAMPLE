@@ -26,15 +26,15 @@
   }
 
   .top-wrapper h1 {
-    font-size: 24px;
-    line-height: 36px;
-    text-align: center;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: left;
   }
   
   .top-wrapper h3 {
-    font-size: 18px;
-    line-height: 36px;
-    text-align: center;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: left;
   }
 
   .top-wrapper p {
