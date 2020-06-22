@@ -50,9 +50,9 @@ a {
   margin: 90px;
 }
 
-.top-wrapper p {
+.top-wrapper ol li {
   opacity: 1;
-  font-size: 20px;
+  font-size: 24px;
   margin: 20px;
   text-align: left;
 }
