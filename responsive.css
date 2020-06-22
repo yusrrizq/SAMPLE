@@ -6,6 +6,11 @@
   .heading h2 {
     font-size: 20px;
   }
+  
+  .heading h3 {
+    font-size: 20px;
+  }
+  
   .lesson {
     width: 50%;
     margin-bottom: 50px;
