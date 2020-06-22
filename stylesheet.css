@@ -87,7 +87,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: hsl(89, 43%, 51%);
+  background-color: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
   position :fixed;
   top: 0;
   z-index: 10;
