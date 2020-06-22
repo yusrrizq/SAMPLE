@@ -87,7 +87,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: #DAA520;
+  background-color: hsl(89, 43%, 51%);
   position :fixed;
   top: 0;
   z-index: 10;
