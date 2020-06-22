@@ -56,6 +56,11 @@ a {
   text-align: left;
 }
 
+.btn-wrapper {
+  text-align: center;
+  margin: 20px 0;
+}
+
 .signup {
   background-color: #8c7ae6;
 }
