@@ -50,7 +50,14 @@ a {
   margin: 90px;
 }
 
-.top-wrapper ol li {
+.top-wrapper ol {
+  opacity: 1;
+  font-size: 24px;
+  margin: 20px;
+  text-align: left;
+}
+
+.top-wrapper li {
   opacity: 1;
   font-size: 24px;
   margin: 20px;
