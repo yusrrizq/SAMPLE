@@ -37,11 +37,21 @@
     text-align: left;
   }
 
-  .top-wrapper p {
-    font-size: 14px;
-    line-height: 20px;
-  }
-  .lesson {
+ .top-wrapper ol {
+  opacity: 1;
+  font-size: 12px;
+  margin: 14px;
+  text-align: left;
+}
+
+.top-wrapper li {
+  opacity: 1;
+  font-size: 12px;
+  margin: 14px;
+  text-align: left;
+}
+  
+.lesson {
     width: 100%;
   }
   footer {
