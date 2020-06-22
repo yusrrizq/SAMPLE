@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6, p, div {
 }
 
 body {
-  font-family: "Pixel";
+  font-family: "Arial, Helvetica, sans-serif";
 }
 
 a {
@@ -87,7 +87,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  background-color: rgba(34, 49, 52, 0.9);
   position :fixed;
   top: 0;
   z-index: 10;
