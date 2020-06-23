@@ -27,6 +27,9 @@ a {
   margin: 0 auto;
 }
 
+
+
+
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: linear-gradient(to left top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
@@ -39,7 +42,7 @@ a {
   opacity: 1;
   font-size: 45px;
   letter-spacing: 5px;
-  margin: 90px;
+  margin: 40px;
 }
 
 .top-wrapper h2 {
@@ -60,6 +63,7 @@ a {
   text-align: center;
   margin: 20px 0;
 }
+
 
 .signup {
   background-color: #8c7ae6;
@@ -114,6 +118,9 @@ header {
 .header-right a:hover {
   background-color: rgba(255, 255, 255, 0.3);
 }
+
+
+
 
 .lesson-wrapper {
   padding-bottom: 80px;
@@ -174,6 +181,25 @@ header {
   position: relative;
   top: 7px;
   box-shadow: none;
+}
+
+/*pengaturan posting*/
+.isiposting{
+	background-color	: #bc9d64;
+	width				: 98%;
+	height				: 150px;
+	margin-bottom		: 5px;
+	padding				: 5px;
+}
+/*pengaturan gambar yang di halaman depan*/
+.gambardepan{
+	float				: left;
+	height				: 140px;
+	width 				: 150px;
+	margin-right		: 5px;
+	margin-top 			: 3px;
+	padding 			: 1px;
+	border 				: 1px solid #dddddd;
 }
 
 footer img {
