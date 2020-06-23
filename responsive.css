@@ -6,11 +6,11 @@
   .heading h2 {
     font-size: 20px;
   }
-  
+
   .heading h3 {
     font-size: 20px;
   }
-  
+
   .lesson {
     width: 50%;
     margin-bottom: 50px;
@@ -35,13 +35,13 @@
     line-height: 20px;
     text-align: left;
   }
-  
+
   .top-wrapper h2 {
     font-size: 18px;
     line-height: 20px;
     text-align: left;
   }
-  
+
   .top-wrapper h3 {
     font-size: 14px;
     line-height: 20px;
@@ -50,18 +50,18 @@
 
  .top-wrapper ol {
   opacity: 0.8;
-  font-size: 12px;
+  font-size: 14px;
   margin: 14px;
   text-align: left;
 }
 
 .top-wrapper li {
   opacity: 0.8;
-  font-size: 12px;
+  font-size: 14px;
   margin: 14px;
   text-align: left;
 }
-  
+
 .lesson {
     width: 100%;
   }
